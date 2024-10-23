@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📊Data Analyst / 🛡️Former Information Security Analyst<br> ✍️Blog Writer</p>
+<p align="left">📊Data Analyst / 🛡️ Information Security Analyst<br> ✍️Blog Writer</p>
 
 ###
 
